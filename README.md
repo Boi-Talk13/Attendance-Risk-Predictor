@@ -141,5 +141,3 @@ This project uses an AI agent to analyze student attendance by combining rule-ba
 
 ---
 
-## 👨‍💻 Author
-Bhavesh Kumar Reddy Vundela
